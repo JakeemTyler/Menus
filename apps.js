@@ -56,7 +56,7 @@ function navigate(pg) {
         header.innerHTML = "Interact";
 
         var countNumber=document.createElement("h2")
-        countNumber.style.color="red"
+        countNumber.style.color="black"
         var countChange=0
         countNumber.innerHTML= "Your number is: " +countChange
 
